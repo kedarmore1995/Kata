@@ -13,7 +13,6 @@ package com.kyun8;
 //        you have to return all the numbers in that string in the order they occur.
 
 
-
 public class String_filter {
     public static long filterString(final String value) {
         return Long.parseLong(value.replaceAll("[a-z]","")); // complete this function :)
