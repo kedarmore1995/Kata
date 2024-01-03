@@ -24,4 +24,3 @@ public class isThisATriangle {
         return a+b>c && b+c>a && a+c>b;
     }
 }
-
